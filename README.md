@@ -1,2 +1,2 @@
-# MyProjects
-all about my projects.
+# RESUME
+Basic resume using html and css
